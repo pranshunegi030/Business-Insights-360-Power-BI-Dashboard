@@ -57,13 +57,57 @@ ii) Net Sales
 iii) Gross Margin
 iv) Net Profit
 v) Monthly Sales Trend
-vi) Benchmark Comparison
-vii_ Target Comparison
+vi) Target Comparison
+vii) Last Year Data Comparison
 
 Supports dynamic comparison against:
 
 Last Year,
-Benchmark,
 Target
 
 **Link :** https://github.com/pranshunegi030/Business-Insights-360-Power-BI-Dashboard/blob/main/Reports/finance_report_bi_360.pdf
+
+**3) Sales View :**
+Analyze customer performance across multiple dimensions.
+
+Includes :
+
+i) Customer Performance
+ii) Product Performance
+iii) Customer Profitability Matrix
+iv) Gross Margin Analysis
+
+Allows users to identify high-value customers and profitable product segments.
+
+**Link :** https://github.com/pranshunegi030/Business-Insights-360-Power-BI-Dashboard/blob/main/Reports/sales_report_bi_360.pdf
+
+**4) Marketing View :**
+Monitor product and regional performance.
+
+Features :
+
+i) Product Performance Matrix
+ii) Region Performance
+iii) Gross Margin Analysis
+iv) Net Profit Analysis
+v) Unit Economics
+
+Users can dynamically switch between :
+
+Gross Margin %,
+Net Profit %
+
+**Link :** https://github.com/pranshunegi030/Business-Insights-360-Power-BI-Dashboard/blob/main/Reports/marketing_report_bi_360.pdf
+
+**5) Supply Chain Management View :**
+Monitor supply chain efficiency using
+
+i) Forecast Accuracy
+ii) Net Error
+iii) Absolute Net Error
+iv) Product Risk Analysis
+v) Forecast Accuracy Trend
+
+Helps analyze forecast accuracy trends and support better operational decision making.
+
+**Link :** https://github.com/pranshunegi030/Business-Insights-360-Power-BI-Dashboard/blob/main/Reports/supply_chain_report_bi_360.pdf
