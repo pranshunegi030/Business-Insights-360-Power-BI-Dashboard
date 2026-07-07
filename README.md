@@ -111,3 +111,81 @@ v) Forecast Accuracy Trend
 Helps analyze forecast accuracy trends and support better operational decision making.
 
 **Link :** https://github.com/pranshunegi030/Business-Insights-360-Power-BI-Dashboard/blob/main/Reports/supply_chain_report_bi_360.pdf
+
+**6) Executive View :** 
+A high-level dashboard designed for executives.
+
+Includes :
+
+i) Net Sales
+ii) Gross Margin
+iii) Net Profit
+iv) Forecast Accuracy
+v) Revenue by Division
+vi) Revenue by Channel
+vii) Market Share Trend
+viii) Top Customers
+ix) Top Products
+
+Designed to provide an overall health check of the business.
+
+**Link :** https://github.com/pranshunegi030/Business-Insights-360-Power-BI-Dashboard/blob/main/Reports/executive_report_bi_360.pdf
+
+**7) Information Page :**
+
+Provides dashboard metadata including :
+
+i) Data Refresh Information
+ii) Data Sources
+iii) Reporting Logic
+iv) Business Metrics
+v) Dynamic Reporting Details
+
+**Link :** https://github.com/pranshunegi030/Business-Insights-360-Power-BI-Dashboard/blob/main/images/info_page.png
+
+**8) Support Page :**
+Dedicated support section for dashboard users.
+
+Includes quick actions for
+
+i) Raise Issues
+ii) Submit Feedback
+iii) New Feature Requests
+iv) Power BI Help
+
+**Link :** https://github.com/pranshunegi030/Business-Insights-360-Power-BI-Dashboard/blob/main/images/support_page.png
+
+
+**Overall Report Features :**
+
+1) Interactive Navigation
+   
+2) Dynamic Bookmarks
+   
+3) Cross Filtering
+   
+4) Dynamic KPI Cards
+   
+5) Drill Down Tables
+   
+6) Dynamic Comparison (Target vs Last Year)
+   
+7) Performance Matrix
+   
+8) Waterfall Charts
+   
+9) Forecast Analysis
+    
+10) Responsive Dashboard Design
+
+11) Multi-page Navigation
+    
+12) Tooltips
+    
+13) Dynamic Time Filters
+    
+14) Region Filters
+
+15) Product Filters
+    
+16) Customer Filters
