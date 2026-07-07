@@ -189,3 +189,19 @@ iv) Power BI Help
 15) Product Filters
     
 16) Customer Filters
+
+**Tools & Technologies :**
+
+1) Power BI Desktop
+   
+2) Power Query
+   
+3) DAX
+   
+4) Data Modeling
+   
+5) Star Schema
+   
+6) Excel
+   
+7) SQL
