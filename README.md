@@ -34,3 +34,36 @@ ii) **Currency Used:** USD (Millions)
 iii) **Actual Sales Data:** September 2017 – December 2021
 iv) **Estimated Data:** January 2022 – August 2022
 v) **Fiscal Year:** September → August (Next Calendar Year)
+
+**Dashboard Pages :**
+
+**1) Home :**
+Provides centralized navigation to all report pages.
+
+Features
+
+i) Interactive navigation
+ii) Last Refresh Time
+iii) Dashboard overview
+iv) Quick access to every report
+
+**Link :** https://github.com/pranshunegi030/Business-Insights-360-Power-BI-Dashboard/blob/main/images/home_page.png
+
+**2) Finance View :**
+Analyze financial performance using:
+
+i) Profit & Loss Statement
+ii) Net Sales
+iii) Gross Margin
+iv) Net Profit
+v) Monthly Sales Trend
+vi) Benchmark Comparison
+vii_ Target Comparison
+
+Supports dynamic comparison against:
+
+Last Year,
+Benchmark,
+Target
+
+**Link :** https://github.com/pranshunegi030/Business-Insights-360-Power-BI-Dashboard/blob/main/Reports/finance_report_bi_360.pdf
