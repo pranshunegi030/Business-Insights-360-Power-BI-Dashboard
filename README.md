@@ -205,3 +205,25 @@ iv) Power BI Help
 6) Excel
    
 7) SQL
+
+**Business Insights Generated :**
+
+The dashboard enables stakeholders to :
+
+1) Monitor overall business health
+   
+2) Analyze profitability across products and customers
+   
+3) Compare performance against targets and benchmarks
+   
+4) Track revenue trends across markets
+   
+5) Monitor forecast accuracy
+   
+6) Identify inventory risks
+   
+7) Evaluate customer contribution
+   
+8) Analyze regional performance'
+   
+9) Support executive decision-making through interactive visualizations
